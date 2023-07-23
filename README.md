@@ -1,2 +1,2 @@
 # Discord Bot
-Simple bot example using discord.js
+Simple bot example using Discord.js
